@@ -1,0 +1,52 @@
+_repo: The-Jealousies-of-a-Country-Town_7950
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+  translators:
+  - agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+  - agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: An old maid -- The collection of antiquities.
+title: The Jealousies of a Country Town
+url: http://www.gutenberg.org/ebooks/7950
